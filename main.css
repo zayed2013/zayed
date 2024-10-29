@@ -1,0 +1,227 @@
+.navbar-links {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-links li {
+    padding: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    letter-spacing: 5px;
+
+}
+
+.navbar-links li:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.logo {
+    margin: 0;
+}
+
+.navbar {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+.header {
+    height: calc(100vh - 60px);
+    background-image: url(img/mac.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-left: 50px;
+
+
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    color: white;
+
+}
+
+.content>h1 {
+    font-size: 64px;
+    font-family: sans-serif;
+    font-weight: 100;
+
+}
+
+.content>p {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-bottom: 40px;
+
+}
+
+.content a {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: black;
+    padding: 12px 24px;
+    background-color: white;
+    text-decoration: none;
+    opacity: 0.6;
+
+}
+
+.flex > div{
+text-align: center;
+width: 340px;
+
+}
+
+h2{
+    text-align: center;
+    
+}
+
+.flex > div > p{
+padding: 0 40px;
+text-align: center;
+font-size: 20px;
+}
+
+.flex{
+display: flex; 
+justify-content:center ;
+gap: 20px;
+}
+.flex img{
+    width: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
